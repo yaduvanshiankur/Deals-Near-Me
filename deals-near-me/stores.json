@@ -1,0 +1,112 @@
+{
+    "storesFeatures": [
+      {
+        "name": "The Cloves Cafe & Dining",
+        "category": "Restaurant",
+        "description": "10% off on eateries",
+        "coordinatesStore": {
+            "lng": 83.11234388024907, 
+            "lat":25.2859170843125
+        }
+      },
+      {
+          "name": "V-Mart",
+          "category": "Clothing",
+          "description" : "30% flat sale on clothes",
+          "coordinatesStore": {
+              "lng": 83.10635569213851, 
+              "lat":25.289149915390148
+          }
+      },
+      {
+        "name": "Dominos Pizza",
+        "category": "Restaurant",
+        "description": "20% off on eateries",
+        "coordinatesStore": {
+            "lng": 83.09942473943666, 
+            "lat": 25.294051055431154
+        }
+      },
+      {
+        "name": "Dell Exclusive store",
+        "category": "Electronics",
+        "description": "5% off on Electronics",
+        "coordinatesStore": {
+            "lng": 83.11691263315971, 
+            "lat": 25.283428245220843
+        }
+      },
+      {
+        "name": "Grosell(grocery delivery service)",
+        "category": "Grocery",
+        "description": "5% off on Grocery",
+        "coordinatesStore": {
+            "lng": 83.12578100891717, 
+            "lat": 25.288381138748456
+        }
+      },
+      {
+        "name": "Grocery Store",
+        "category": "Grocery",
+        "description": "10% off on Grocery",
+        "coordinatesStore": {
+            "lng": 83.11848356386568, 
+            "lat": 25.282703684205178
+        }
+      },
+      {
+        "name": "Bata",
+        "category": "Footwear",
+        "description": "15% off on Footwear",
+        "coordinatesStore": {
+            "lng": 83.11670754191796, 
+            "lat": 25.283005600589362
+        }
+      },
+      {
+        "name": "The Flavours",
+        "category": "Restaurant",
+        "description": "20% off on eateries",
+        "coordinatesStore": {
+            "lng": 83.10762650041403, 
+            "lat": 25.28801978776534
+        }
+      },
+      {
+        "name": "The Sky Cafe",
+        "category": "Restaurant",
+        "description": "5% off on eateries",
+        "coordinatesStore": {
+            "lng": 83.10328132173245, 
+            "lat": 25.290377037859994
+        }
+      },
+      {
+        "name": "Grocery Store",
+        "category": "Grocery",
+        "description": "25% off on grocery",
+        "coordinatesStore": {
+            "lng": 83.08812379766553, 
+            "lat": 25.311732184344322
+        }
+       },
+       {
+        "name": "Grocery Store",
+        "category": "Grocery",
+        "description": "20% off on grocery",
+        "coordinatesStore": {
+            "lng": 83.11245775197469, 
+            "lat": 25.27066063067666
+        }
+       },
+       {
+        "name": "Jio Store",
+        "category": "Electronics",
+        "description": "10% off on Electronics",
+        "coordinatesStore": {
+            "lng": 83.11984147793818, 
+            "lat": 25.284430473751243
+        }
+       }
+    ]
+}
